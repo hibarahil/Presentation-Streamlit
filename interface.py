@@ -132,8 +132,6 @@ with tab4:
 
     with subtab1:
         st.title("📊 Dashboard interactif de révision mémoire")
-        st.markdown("Voici un exemple dynamique basé sur des **données fictives**. Tu peux les modifier à ta guise pour ta démo.")
-
         # Données simulées
         sujets = ["Introduction", "Méthodologie", "Analyse", "Résultats", "Conclusion"]
         start_date = datetime.today()
